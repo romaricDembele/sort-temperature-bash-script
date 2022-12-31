@@ -1,0 +1,3 @@
+Paris 15
+London 12
+Berlin 9
